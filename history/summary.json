@@ -1,5 +1,23 @@
 [
   {
+    "name": "AstroBox 官网",
+    "url": "https://astrobox.online",
+    "icon": "https://icons.duckduckgo.com/ip3/astrobox.online.ico",
+    "slug": "astro-box",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1036,
+    "timeDay": 1036,
+    "timeWeek": 1036,
+    "timeMonth": 1036,
+    "timeYear": 1036,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "文档协作平台",
     "url": "https://affine.astralsight.space",
     "icon": "https://icons.duckduckgo.com/ip3/affine.astralsight.space.ico",
