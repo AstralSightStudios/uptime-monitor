@@ -5,9 +5,9 @@ repo: uptime-monitor # The name of this repository
 sites:
   - name: AstroBox 官网
     url: https://astrobox.online
-  - name: 文档协作平台
+  - name: AFFiNE 文档协作平台
     url: https://affine.astralsight.space
-  - name: 项目管理平台
+  - name: Plane 项目管理平台
     url: https://pm.astralsight.space
 
 status-website:
