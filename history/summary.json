@@ -4,7 +4,7 @@
     "url": "https://astrobox.online",
     "icon": "https://icons.duckduckgo.com/ip3/astrobox.online.ico",
     "slug": "astro-box",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.43%",
@@ -16,6 +16,7 @@
     "timeMonth": 1195,
     "timeYear": 1195,
     "dailyMinutesDown": {
+      "2025-10-08": 0,
       "2025-10-05": 21,
       "2025-10-03": 12,
       "2025-10-01": 25,
