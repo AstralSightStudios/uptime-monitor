@@ -4,16 +4,16 @@
     "url": "https://astrobox.online",
     "icon": "https://icons.duckduckgo.com/ip3/astrobox.online.ico",
     "slug": "astro-box",
-    "status": "up",
-    "uptime": "98.95%",
+    "status": "down",
+    "uptime": "98.97%",
     "uptimeDay": "83.46%",
-    "uptimeWeek": "97.39%",
-    "uptimeMonth": "98.94%",
-    "uptimeYear": "98.95%",
+    "uptimeWeek": "97.55%",
+    "uptimeMonth": "98.96%",
+    "uptimeYear": "98.97%",
     "time": 1253,
     "timeDay": 4899,
-    "timeWeek": 1525,
-    "timeMonth": 1250,
+    "timeWeek": 1566,
+    "timeMonth": 1255,
     "timeYear": 1253,
     "dailyMinutesDown": {
       "2025-10-24": 181,
@@ -49,7 +49,7 @@
     "time": 565,
     "timeDay": 527,
     "timeWeek": 545,
-    "timeMonth": 565,
+    "timeMonth": 564,
     "timeYear": 565,
     "dailyMinutesDown": {
       "2025-09-30": 18
@@ -69,7 +69,7 @@
     "time": 609,
     "timeDay": 553,
     "timeWeek": 625,
-    "timeMonth": 609,
+    "timeMonth": 603,
     "timeYear": 609,
     "dailyMinutesDown": {}
   }
