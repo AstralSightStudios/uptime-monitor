@@ -3,12 +3,14 @@ owner: AstralSightStudios # Your GitHub organization or username, where this rep
 repo: uptime-monitor # The name of this repository
 
 sites:
-  - name: AstroBox 官网
-    url: https://astrobox.online
+  - name: AstralSight 统一登录平台
+    url: https://cas.astralsight.space
   - name: AFFiNE 文档协作平台
     url: https://affine.astralsight.space
   - name: Plane 项目管理平台
     url: https://pm.astralsight.space
+  - name: Weblate 翻译平台
+    url: https://weblate.astralsight.space
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
